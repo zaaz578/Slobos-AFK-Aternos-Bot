@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Canada-smp-8Fvv.aternos.me",
+    "ip": "Canada-smp-8Fvv.aternos.me:55302",
     "port": 55302,
     "version": "1.21.11",
     "try-creative": false
